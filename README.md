@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ally-guo-/) 
 [![Devpost](https://img.shields.io/badge/Devpost-%23000000.svg?logo=devpost&logoColor=white)](https://devpost.com/ally-223?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@ItsAlllllly)
-This will generate the badges for LinkedIn, Devpost, and YouTube with corresponding links. You
 
 
 # 💻 Tech Stack:
