@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Student at the University of Waterloo<br>⚛️ Have experience in web dev, especially using React for frontend<br>🤖 Passionate about Natural Language Processing (NLP)<br>🎨 Love doing art and jogging in my free time
+🎓 Computer Science Student at the University of Waterloo<br>⚛️ Have experience in web dev, especially using React for frontend<br>🎨 Love doing art and jogging in my free time
 
 
 ## 🌐 Socials:
