@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Student at the University of Waterloo<br>⚛️ 🎨 Love doing art and jogging in my free time
+🎓 Computer Science Student at the University of Waterloo<br>⚛️ 🎨 Love karaoke & art & jogging & My Obsidian second brain
 
 
 ## 🌐 Socials:
